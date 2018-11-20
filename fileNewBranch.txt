@@ -1,1 +1,4 @@
 Questo file era stato scrito nel master
+and
+Questa riga è stata editata nel ramo Testing 
+
